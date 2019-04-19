@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mechanic Finder</string>
+
+    <string name="title_activity_customer_maps">Map</string>
+    <string name="title_activity_mechanic_req_maps">Map</string>
+
+</resources>
